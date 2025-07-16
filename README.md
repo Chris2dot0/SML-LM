@@ -105,6 +105,8 @@ Edit `config.py` and add Hexagon documentation URLs:
 ```python
 HEXAGON_URLS = [
     "https://docs.hexagonppm.com/",
+    "https://docs.hexagonppm.com/p/SI14",
+    "https://docs.hexagonppm.com/r/en-US/Intergraph-Smart-Instrumentation-Tutorial/14/1196937",
     "https://your-specific-docs-url.com/",
     # Add more URLs here
 ]
