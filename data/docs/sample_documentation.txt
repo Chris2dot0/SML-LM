@@ -1,0 +1,36 @@
+
+SmartPlant Instrumentation - Sample Documentation
+
+This is a sample documentation file for SmartPlant Instrumentation.
+Replace this with your actual SmartPlant documentation files.
+
+Common SmartPlant Instrumentation Topics:
+
+1. System Setup and Configuration
+   - Installation requirements
+   - Database configuration
+   - User management
+
+2. Instrument Configuration
+   - Pressure transmitters
+   - Temperature sensors
+   - Flow meters
+   - Control valves
+
+3. Project Management
+   - Creating new projects
+   - Importing data
+   - Exporting reports
+
+4. Best Practices
+   - Instrument tagging
+   - Documentation standards
+   - Quality assurance
+
+5. Troubleshooting
+   - Common issues
+   - Error messages
+   - Performance optimization
+
+For more information, visit the official Hexagon documentation site.
+        
